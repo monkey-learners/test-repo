@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/monkey-learners/monkey-backend/issues"
   },
-  "homepage": "https://github.com/monkey-learners/monkey-backend#readme"
+  "homepage": "https://github.com/monkey-learners/monkey-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
