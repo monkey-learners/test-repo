@@ -1,0 +1,22 @@
+{
+  "name": "monkey-backend",
+  "version": "1.0.0",
+  "description": "Monkey Backend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkey-learners/monkey-backend.git"
+  },
+  "author": "monkey-learners",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monkey-learners/monkey-backend/issues"
+  },
+  "homepage": "https://github.com/monkey-learners/monkey-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
