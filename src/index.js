@@ -5,6 +5,10 @@ app.get("/", (request, response) => {
   response.send("Monkeys are here!");
 });
 
+app.get("/one", (request, response) => {
+  response.send("Monkey is here!");
+});
+
 app.listen("8080", () => {
   console.log("App listening at http://localhost:8080");
 });
